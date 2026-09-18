@@ -89,6 +89,7 @@ HLT
 
  
 ## Subtraction   of 8 bit numbers  ALP 
+
 MOV AL, 53H;
 MOV BL, 24H;
 SUB AL,BL;
@@ -98,6 +99,7 @@ HLT
 <img width="1422" height="1023" alt="image" src="https://github.com/user-attachments/assets/716e89f8-c3e6-4e84-9d69-9379c347d40f" />
 
 ## Multiplication alp 
+
 MOV AL, 53H;
 MOV BL, 24H;
 MUL BL;
@@ -108,6 +110,7 @@ HLT
 
 
 ## Division alp 
+
 MOV AL, 53H
 MOV BL, 24H
 DIV BL
